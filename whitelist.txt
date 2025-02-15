@@ -1,5 +1,6 @@
 *.style
 apple-relay.apple.com
+cloudflare-dns.com
 mask-api.fe2.apple-dns.net
 mask-api.icloud.com
 mask-boot.icloud.com
